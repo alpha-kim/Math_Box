@@ -8,6 +8,7 @@ def subtract(a, b):
 def multiply(a, b):
 	return a * b
 
+<<<<<<< Updated upstream
 def divide_new(a, b):
 	return a / b
 
@@ -22,3 +23,6 @@ def get_abs(num):
 		return num
 	else:
 		return -num
+
+def get_Percent(a, b):
+	return (a / b) * 100
